@@ -20,8 +20,10 @@ I could define myself as an off-road person or full stack developer
 
 
 ## Experience 
+#### January 2021 - Present [SNGULAR](https://sngular.com)
+`Ruby and Rails`
 
-#### January 2017 - Present  [ASPGEMS](https://www.aspgems.com) 
+#### January 2017 - December 2020  [ASPGEMS](https://www.aspgems.com) 
 `Ruby and Rails`, `VueJS`, `DRUPAL`, `WORDPRESS`, `HTML`, `CSS`, `JS`, `AWS`, `TERRAFORM`,
 `Docker`, `WebPacked`, `MySQL` `PostgreSQL`
 
