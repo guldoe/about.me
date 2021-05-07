@@ -20,8 +20,12 @@ I could define myself as an off-road person or full stack developer
 
 
 ## Experience 
-#### January 2021 - Present [SNGULAR](https://sngular.com)
-`Ruby and Rails`
+
+#### February 2021 - Present [PAACK](https://paack.co)
+`Ruby and Rails`, `Kubernetes`, `Google Cloud`
+
+#### January 2021 - February 2021 [SNGULAR](https://sngular.com)
+`Ruby and Rails`, `AWS`, `Github Actions`
 
 #### January 2017 - December 2020  [ASPGEMS](https://www.aspgems.com) 
 `Ruby and Rails`, `VueJS`, `DRUPAL`, `WORDPRESS`, `HTML`, `CSS`, `JS`, `AWS`, `TERRAFORM`,
@@ -38,12 +42,15 @@ Head of computer science department and institute professor and educator of PLAN
 ## Languages
 * Spanish Native 
 * English B2 
-* Arabian swear words only
 
 ## Education
 
 * Computer Engineering Degree at the Universidad de Extremadura
 * Teaching Certified
+
+
+## Last Formation / Courses
+
 
 ## Other qualities.
 
@@ -56,3 +63,6 @@ I am a very outgoing person and a great team player. Worker and who likes to tak
 * Co Organizer [@wpextremadura](https://twitter.com/wpextremadura)
 * Co Organizer [@aceresjs](https://twitter.com/caceresjs)
 * Co Organizer [@extredigitalday](https://twitter.com/extredigitalday)
+
+
+
