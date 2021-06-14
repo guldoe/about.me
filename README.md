@@ -54,10 +54,9 @@ Head of computer science department and institute professor and educator of PLAN
 * Integrando Docker a su infraestructura y servicios. December 2020 - [UDEMY](https://www.udemy.com/course/integrando-docker-a-su-infraestrucutra-y-servicios)
 * Introduction to Serverless on Google Cloud -  Mayo 2021 - [CLOUD_GURU](https://acloudguru.com/)
 * Introduccion a GO -  Mayo 2021 - [CODELY.TV](https://pro.codely.tv/library/introduccion-a-go-tu-primera-app)
-* Arquitectura Hexagonal -  Mayo 2021 - [CODELY.TV](https://pro.codely.tv/library/arquitectura-hexagonal/)
-* API HTTP en Go aplicando Arquitectura Hexagonal -  (Mayo Junio) 2021 - [CODELY.TV](https://pro.codely.tv/library/api-go-hexagonal)
-* Principios SOLID aplicados -  (Mayo - Junio) 2021 - [CODELY.TV](https://pro.codely.tv/library/principios-solid-aplicados/)
-* Domain Driven Design DDD -  (Mayo - Junio) 2021 - [CODELY.TV](https://pro.codely.tv/library/domain-driven-design-ddd)
+* Arquitectura Hexagonal -  (Mayo Junio) 2021 - [CODELY.TV](https://pro.codely.tv/library/arquitectura-hexagonal/)
+* API HTTP en Go aplicando Arquitectura Hexagonal -  (Junio - Julio) 2021 - [CODELY.TV](https://pro.codely.tv/library/api-go-hexagonal)
+
 
 ## Other qualities.
 
